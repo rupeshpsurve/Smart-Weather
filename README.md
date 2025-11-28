@@ -1,21 +1,7 @@
-Description
-GTM systems is a large IT company with offices all around the world. The
-company delivers software products and services to corporate clients. One
-of the reasons for its enduring success and consistent performance over
-the years is the ability to leverage technology and find innovative
-applications for it.
+Hi  I am Rupesh
 
-Problem Statement and Motivation
-While GTM has no expertise in meteorology, it proposes to aggregate weather data
-from multiple providers and uses analytics to correlate it with meaningful
-conclusions for businesses.
-Example use cases could be generating forecasts based on local weather conditions
-around:
-• Consumption of hot versus cold beverages depending on cold, sunny, or rainy
-weather
-• Number of visitors to a tourist site or an open
-air entertainment event
-• Likelihood of seasonal illnesses such as flu in particular locations
-The main system will comprise a web portal and a set of “apps” available on the
-popular mobile operating systems. Apart from this, clients can ask for specific
-services or apps based on the insights that the analytics can generate.
+below is overview of my work experience in project management.
+
+Currently a Project Management Trainee at Fortray Global Services with a PGDBA in Business Administration and a BSc in Science. I bring hands-on experience supporting digital transformation and system implementation projects using tools like Power BI, Jira, MS Project, and Confluence. Certified as a PRINCE2 Practitioner and Scrum Master, I contribute across full project lifecycles with a focus on planning, risk mitigation, and stakeholder coordination.
+
+Previously led GSS compliance reporting at Anglian Water and managed LMS migration across EMEA for Boston Scientific. I’m now seeking junior project management or coordination roles where I can apply my skills in agile delivery, cross-functional collaboration, and data-driven decision-making.
